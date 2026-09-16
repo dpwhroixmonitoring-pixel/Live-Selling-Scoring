@@ -1,0 +1,7 @@
+{
+  "name": "AI Audio Scorer",
+  "description": "Mobile-friendly presentation audio recorder and AI performance evaluation tool for students.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
